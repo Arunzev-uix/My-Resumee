@@ -1,0 +1,42 @@
+.body {
+  background-color:#F5f5f5;
+}
+.card {
+    background-color: #ffffff;
+    padding: 10px;
+    font-family: "Muli", sans-serif;
+    font-weight: 600;
+    color: #000;
+    font-size: 14px;
+    text-transform: capitalize;
+}
+
+.Row {
+  font-family: "Muli", sans-serif;
+  font-weight: 400;
+  color: #777777;
+  padding-top: 10px;
+  font-size: 14px;
+}
+
+.Color {
+  color: #444444;
+}
+
+
+.search-bar-package {
+    position: relative;
+}
+
+.logged-out-homepage .hero .header .search-bar-package form input {
+    height: 48px;
+    padding-left: 44px;
+    margin-bottom: 0;
+    border-radius: 3px;
+    border-right: 1px solid #ddd;
+}
+
+
+.nature {
+    background-color: red;
+}
